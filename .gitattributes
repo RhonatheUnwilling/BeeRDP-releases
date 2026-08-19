@@ -1,0 +1,6 @@
+# Geen enkele omzetting van regeleindes. Dit is hier geen smaakkwestie maar een
+# noodzaak: de handtekening gaat over de bytes van versie.json precies zoals ze
+# zijn. Zou git bij het uitchecken CRLF maken en zou er daarna opnieuw worden
+# ondertekend, dan staat er een handtekening over andere bytes dan er in de
+# repo belanden - en weigert elke BeeRDP de update.
+* -text
