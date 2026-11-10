@@ -1,7 +1,7 @@
 {
-  "versie": "3.5",
-  "datum": "2026-08-20",
-  "zip": "https://github.com/RhonatheUnwilling/BeeRDP-releases/releases/download/v3.5/BeeRDP-v3.5.zip",
-  "sha256": "96ce3dfdd03505c9dcd0833e7ea02c9510314d48473a80a17a457cafcc1272ea",
-  "wat": "Vijf punten uit een veiligheidsronde, waaronder een ondertekend versiebericht."
+  "versie": "3.6",
+  "datum": "2026-11-10",
+  "zip": "https://github.com/RhonatheUnwilling/BeeRDP-releases/releases/download/v3.6/BeeRDP-v3.6.zip",
+  "sha256": "0a90fce35b7cf0b117ef45a40c3cdd87b9d0d760ab07c46403dc53e75e280828",
+  "wat": "BeeRDP start niet langer een tweede keer, en het bijwerken zelf is betrouwbaarder geworden."
 }
